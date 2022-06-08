@@ -1,0 +1,26 @@
+# Large files (available upon request)
+CID-SMILES.gz
+MassBank_NIST.msp
+massbank_ms2_search.pickle
+*.tif
+
+# Old notebook directories
+Notebooks_Initial_Submission
+Notebooks_Major_Revision
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Artwork raw files
+*.ai
+*.svg
+*.pptx
+
+# Old tables
+tables_initial_submission.xlsx
+tables_old.xlsx
+tables.xlsx
+
+# Drafts and submissions
+04 Manuscript Drafts
+05 Submissions
